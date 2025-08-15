@@ -1,11 +1,3 @@
-Got it ✅
-I’ll enhance your GitHub Profile README with **GitHub stats cards, streak counters, tech stack badges, and a colorful design** so it looks more interactive and professional.
-
-Here’s your **Enhanced GitHub Portfolio README**:
-
----
-
-```markdown
 # 👋 Hi, I'm Chidurala Mounya Sai  
 💻 Aspiring Data Scientist | Python Developer | AI/ML Enthusiast  
 🎓 3rd Year CSE @ Geethanjali College of Engineering and Technology  
@@ -39,16 +31,17 @@ Here’s your **Enhanced GitHub Portfolio README**:
 
 ## 🌟 Projects
 
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| 💤 **Sleep Disorder Prediction** | Built ML model to classify sleep disorders | Python, ML |
-| 🎙️ **Voice Assistant** |https://github.com/mounyasai21/Voice-Assistant| Python |
-| 🧮 **BMI Calculator** | GUI tool with personalized feedback & health visualization | Python, Tkinter |
-| 🔐 **Random Password Generator** | Secure password generator with clipboard support | Python |
-| 📊 **Sorting Visualization** | Visual representation of sorting algorithms | Java |
-| 🍽️ **Food World Billing System** | Console-based billing program for restaurants | C |
-| 🎮 **Tic Tac Toe Game** | Two-player game using data structures | C |
-| 🌐 **Restaurant Management System** | Web app to manage orders, billing, and menu | HTML, CSS, JavaScript |
+| Project | Description | Tech Used | Link |
+|---------|-------------|-----------|------|
+| 💤 **Sleep Disorder Prediction** | Built ML model to classify sleep disorders | Python, ML | [View Repo](https://github.com/mounyasai21/Optimization-Model) |
+| 🎙️ **Voice Assistant** | Speech-based assistant with API integration & weather updates | Python | [View Repo](https://github.com/mounyasai21/Voice-Assistant) |
+| 🧮 **BMI Calculator** | GUI tool with personalized feedback & health visualization | Python, Tkinter | [View Repo](https://github.com/mounyasai21/BMI-Calculator) |
+| 🔐 **Random Password Generator** | Secure password generator with clipboard support | Python | [View Repo](https://github.com/mounyasai21/Random-Password-Generator) |
+| 📊 **Sorting Visualization** | Visual representation of sorting algorithms | Java | [View Repo](https://github.com/mounyasai21/Sorting-Visualization) |
+| 🍽️ **Restaurant Management System** | Web app to manage orders, billing, and menu | HTML, CSS, JavaScript | [View Repo](https://github.com/mounyasai21/Restaurant-management-system) |
+| 🔬 **Deep Learning Project** | End-to-end deep learning pipeline | Python, DL | [View Repo](https://github.com/mounyasai21/DEEP-LEARNING-PROJECT) |
+| 📡 **Data Pipeline Development** | Automated ETL and data flow management | Python | [View Repo](https://github.com/mounyasai21/DATA-PIPELINE-DEVELOPMENT) |
+| 📈 **End-to-End Data Science Project** | Complete DS workflow from preprocessing to deployment | Python, ML | [View Repo](https://github.com/mounyasai21/End-to-End-Data-Science-Project) |
 
 ---
 
@@ -93,4 +86,3 @@ Here’s your **Enhanced GitHub Portfolio README**:
 💻 **GitHub:** [github.com/mounyasai21](https://github.com/mounyasai21)  
 
 ⭐ *If you like my work, consider giving a star to my repositories!*  
-
