@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chidurala Mounya Sai  
 💻 Aspiring Data Scientist | Python Developer | AI/ML Enthusiast  
-🎓 3rd Year CSE @ Geethanjali College of Engineering and Technology  
+🎓 Final Year CSE @ Geethanjali College of Engineering and Technology  
 🚀 Always exploring ways to apply programming and AI to solve real-world problems  
 💬 Open to Internships, Research, and Full-time roles in Data Science or Software Development  
 
@@ -33,7 +33,7 @@
 
 | Project | Description | Tech Used | Link |
 |---------|-------------|-----------|------|
-| 💤 **Sleep Disorder Prediction** | Built ML model to classify sleep disorders | Python, ML | [View Repo](https://github.com/mounyasai21/Optimization-Model) |
+| 💤 **Optimization mode;** | "Built model to analyze student data and optimize Performance Index score"| Python, ML | [View Repo](https://github.com/mounyasai21/Optimization-Model) |
 | 🎙️ **Voice Assistant** | Speech-based assistant with API integration & weather updates | Python | [View Repo](https://github.com/mounyasai21/Voice-Assistant) |
 | 🧮 **BMI Calculator** | GUI tool with personalized feedback & health visualization | Python, Tkinter | [View Repo](https://github.com/mounyasai21/BMI-Calculator) |
 | 🔐 **Random Password Generator** | Secure password generator with clipboard support | Python | [View Repo](https://github.com/mounyasai21/Random-Password-Generator) |
@@ -41,7 +41,7 @@
 | 🍽️ **Restaurant Management System** | Web app to manage orders, billing, and menu | HTML, CSS, JavaScript | [View Repo](https://github.com/mounyasai21/Restaurant-management-system) |
 | 🔬 **Deep Learning Project** | End-to-end deep learning pipeline | Python, DL | [View Repo](https://github.com/mounyasai21/DEEP-LEARNING-PROJECT) |
 | 📡 **Data Pipeline Development** | Automated ETL and data flow management | Python | [View Repo](https://github.com/mounyasai21/DATA-PIPELINE-DEVELOPMENT) |
-| 📈 **End-to-End Data Science Project** | Complete DS workflow from preprocessing to deployment | Python, ML | [View Repo](https://github.com/mounyasai21/End-to-End-Data-Science-Project) |
+| 📈 **End-to-End Data Science Project** | Built ML model to classify sleep disorders | Python, ML  | [View Repo](https://github.com/mounyasai21/End-to-End-Data-Science-Project) |
 
 ---
 
